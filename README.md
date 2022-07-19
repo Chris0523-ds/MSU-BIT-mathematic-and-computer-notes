@@ -8,6 +8,7 @@
 * 金融数学模型 (computer practicum-R)：Доцент Крайнюков Н.И.
 * 数学分析4-复分析部分 (complex analysis)：Доцент Никитин А.А.
 * 线性代数计算方法 (computational methods of linear algebra)：Доцент Точилин П.А.
+* 数学物理方程 (equations of mathematical physics)：Доцент Щеглов А.Ю.
 ## 附注：
 * 本仓库大多笔记使用markdown语言进行整理，建议使用vscode装载相关插件进行阅读。也欢迎本校学生补充相关中文学习笔记，语言包括且不限于markdown，latex等。
 * 如有笔记补充或提出修改建议，可直接联系作者，或发送邮件到邮箱：1733239299@qq.com
