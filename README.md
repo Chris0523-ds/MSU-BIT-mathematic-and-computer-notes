@@ -11,6 +11,7 @@
 * 数学分析4-复分析部分 (complex analysis)：Доцент Никитин А.А.
 * 线性代数计算方法 (computational methods of linear algebra)：Доцент Точилин П.А.
 * 数学物理方程 (equations of mathematical physics)：Доцент Щеглов А.Ю.
+* 数值方法2 (numerical methods-2)：Ильютко В.П.
 ## 附注：
 * 本笔记暂时仅针对 MSU-BIT 计算数学与控制系2019届授课内容，作者暂不考虑根据学校后续培养方案内容的改变进行更新。若学校在校学生后续有对新专业课笔记补充或对现有笔记提出修改建议的意向，可在github直接联系作者，或发送邮件到邮箱：1733239299@qq.com
 * 本仓库大多笔记使用markdown语言进行整理，建议使用vscode装载相关插件进行阅读。也欢迎本校学生补充相关中文学习笔记，语言包括且不限于markdown，latex等。
