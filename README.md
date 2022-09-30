@@ -9,6 +9,7 @@
 ### 大三下 ：
 * 金融数学模型 (computer practicum-R)：Доцент Крайнюков Н.И.
 * 数学分析4-复分析部分 (complex analysis)：Доцент Никитин А.А.
+* 数学分析4-实分析部分 (real analysis)：Доцент Никитин А.А.
 * 线性代数计算方法 (computational methods of linear algebra)：Доцент Точилин П.А.
 * 数学物理方程 (equations of mathematical physics)：Доцент Щеглов А.Ю.
 * 数值方法2 (numerical methods-2)：Ильютко В.П.
